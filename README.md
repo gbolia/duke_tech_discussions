@@ -7,4 +7,4 @@ This is a demo repo for sharing ideas on communication
 * three
 
 ### Colab Example
-this is the [notebook] https://github.com/gbolia/duke_tech_discussions/blob/main/technical_docs.ipynb
+this is the [notebook](https://github.com/gbolia/duke_tech_discussions/blob/main/technical_docs.ipynb)
